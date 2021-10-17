@@ -59,3 +59,4 @@ import seaborn as sns
 %matplotlib inline
 ```
 ## Summary
+We're first set out to explore the dataset to see if we can spot any potential relationships between th features and whether a customer churns. Afterwards, we use an RFE logistic regression model to do the work for us to determine the most successful features. 
