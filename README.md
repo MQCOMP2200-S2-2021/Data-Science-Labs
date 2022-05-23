@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-This repository contains the files for the Portfolio task for COMP2200/6200 in S2 2021. There are a total of 3 portfoliow with their own individual tasks. All packages have ben updated as of 15/10/21. Throughout the portfolios there are references to resources that have been used for topics that are not taught in class. 
+This repository contains the files for the Portfolio task for COMP2200/6200 in S2 2021. There are a total of 3 portfolios with their own individual tasks. All packages have been updated as of 15/10/21. Throughout the portfolios, there are references to resources that have been used for topics that are not taught in class. 
 
 # Portfolio 1
 ## Data
